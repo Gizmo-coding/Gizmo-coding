@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gizmo-coding
 - 👀 I’m interested in CS,IOT & AI
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on IOT Projects
+- 👩🏻‍💻 I’m looking to collaborate on IOT Projects
 - 📫 How to reach me m.hammadouche@esi-sba.dz
 - 😄 Pronouns: Gizmo, Her
 - ⚡ Fun fact: I'm catrovert <3
